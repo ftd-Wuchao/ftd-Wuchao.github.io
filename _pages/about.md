@@ -12,4 +12,4 @@ Welcome to my home page.
 
 I am a Postgraduate at [School of Artificial Intelligence](http://sai.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm).
 
-My research interests are in Computer Vision (e.g., Action Analysis and Person Re-Identification) and Machine Learning
+My research interests are in Computer Vision  and Machine Learning.
